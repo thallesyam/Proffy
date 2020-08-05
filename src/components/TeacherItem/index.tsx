@@ -19,8 +19,8 @@ function TeacherItem() {
       <p>
         Entusiasta das melhores tecnologias do mercado!
         <br></br>
-        Apaixonado por criar coisas de visual bonito e com uma funcionalidade agradavel
-        Design um dia também, quem sabe
+        Apaixonado por criar coisas de visual bonito e com uma funcionalidade agradavel,
+        Desenvolvedor Front-End porém visando um dia chegar proximo ao FullStack
       </p>
       <footer>
         <p>
